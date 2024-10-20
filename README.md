@@ -13,7 +13,7 @@ This is a Spring Boot application for managing Users, Products, Product Categori
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/SachithRangana1/Online-Learning-Platform-Backend.git
+git clone https://github.com/SachithRangana1/E-Commerce-Platform-Application-Backend.git
 ```
 
 ## Open the application by IDE
